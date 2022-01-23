@@ -1,7 +1,7 @@
 ### Hello, this is Ritwik Raha. 👋
 
 
-- 🔭 I’m currently working on causality of EEG signals and image fusion.
+- 🔭 I’m currently working on machine learning and computer vision.
 - 🌱 I’m interested in the area of causal inference in machine learning.
 - 👯 I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: [ritwik_raha](https://twitter.com/ritwik_raha)
